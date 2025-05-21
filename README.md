@@ -1,3 +1,3 @@
-# code_with_Pooja
+# code_with_Dnyaneshwari
 This is my first Git Repository 
-Author - Pooja Mankar
+Author - Dnyaneshwari
